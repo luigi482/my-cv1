@@ -1,0 +1,38 @@
+body{
+    background-image: url(imagenes/photo-1663970206579-c157cba7edda.jpg);
+    background-color: rgb(rgb(63, 240, 101), rgb(243, 215, 89), rgb(48, 248, 205));
+}
+
+#nuevo{
+    text-align: right;
+    color: green;
+}
+
+#section-color{
+    color: antiquewhite;f
+}
+
+#section-color1{
+    color: aliceblue;
+}
+
+#section-color2{
+    padding: 5px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+#section-color3{
+    color: antiquewhite;
+    text-align: center;
+}
+
+h2{
+    color: red;
+}
+p{
+    color: cornflowerblue;
+}
+h3{
+    color: deepskyblue;
+}
